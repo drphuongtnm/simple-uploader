@@ -1,0 +1,8 @@
+# Large test files (GitHub rejects files over 100 MB)
+text.txt
+
+# Uploaded files written by the server
+storage/*
+!storage/.gitkeep
+
+node_modules/
